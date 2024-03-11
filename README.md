@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dengerpu" /> </div>
-<div align="left"> <img src="https://profile-counter.glitch.me/dengerpub/count.svg" /> </div>
+<div align="left"> <img src="https://profile-counter.glitch.me/dengerpu/count.svg" /> </div>
 
 
 ### Technology Stack
